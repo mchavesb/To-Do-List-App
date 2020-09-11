@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+li {
+  list-style-type: decimal;
+}
+
+span {
+  display: inline;
+}
+
+.box {
+  background-color: grey;
+  padding: 2% 2%;
+  margin: 0 25%;
+  border-color: blue;
+  border-style: solid;
+}
+
+.lineThrough {
+  text-decoration: line-through;
+}
